@@ -1,0 +1,3 @@
+pyaudio
+vosk
+google trans
